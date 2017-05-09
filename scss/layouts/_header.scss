@@ -11,3 +11,16 @@
     z-index: 1;
     font-size: 16pt;
 }
+
+.menu-item {
+  text-decoration: none;
+  color: black;
+}
+
+.menu-item:hover {
+  text-decoration: underline;
+}
+
+.contact {
+  float: right;
+}
